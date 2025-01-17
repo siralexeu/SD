@@ -1,0 +1,5 @@
+11,La Nicusor,Nehoiu,33.89,2
+55,Jam,Topoloveni,120.50,10
+31,Alinuta,Pitesti,200.75,15
+18,MiniShop,Iasi,50.25,5
+22,MegaImage,Iasi,80.20,10

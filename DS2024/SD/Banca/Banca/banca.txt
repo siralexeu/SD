@@ -1,0 +1,2 @@
+1,CEC,10000,300,Poligrafiei
+2,BRD,20000,500,Victoriei

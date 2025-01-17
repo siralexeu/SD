@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\ListUtil.h(104,9): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\ListUtil.h(104,9): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\HashUtil.h(80,9): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\HashUtil.h(80,9): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\Source.c(51,25): warning C4047: 'function': 'HashNode **' differs in levels of indirection from 'HashNode ***'
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\Source.c(51,20): warning C4024: 'displayHashTable': different types for formal and actual parameter 1
+C:\Users\Alex\source\repos\SD\Magazin\Magazin\Source.c(29,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Magazin.vcxproj -> C:\Users\Alex\source\repos\SD\Magazin\x64\Debug\Magazin.exe
