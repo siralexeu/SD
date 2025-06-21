@@ -2,4 +2,5 @@
 
 <h1><span style="color: red;">IMPORTANT</span></h1>
 - În Solution Explorer, click dreapta pe proiect și alege „Set as Startup Project”
+
 - În dropdown-ul Solution Platforms din bara de unelte, schimbă arhitectura pe „x86”
